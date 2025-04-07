@@ -4,5 +4,7 @@ qwerty
 
 changes after merge ululululul
 
+// give up
+
 return 0
 and more while resoveing conflict

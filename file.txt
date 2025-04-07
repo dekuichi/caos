@@ -1,2 +1,5 @@
 qwert
 main qwerty
+qwerty
+return 0
+and more while resoveing conflict
